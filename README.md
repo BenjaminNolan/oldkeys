@@ -12,12 +12,12 @@ variants for the following languages:
 > þrẏm ᵹe frunon huða æþelinᵹaſ ellen
 > fremedon.
 
+## Coming soon
+
 * Younger Futhark:
 > ᛏᛅᚿ᛬ᛅᚢᚴ᛬ᛡᚢᛋᚴᛅᚱᛚ᛭ᛅᚢᚴ᛬ᛋᚢᛅᛁᚾ᛭ᛅᚢᚴ᛬ᛡᚢᛚᛘᚠᚱᛁᚦᚱ
 > ᚦᛅᚢᚾ᛬ᛘᛁᚦᚴᛁᚾ᛬ᛚᛁᛏᚢ᛬ᚱᛁᛏᛅ᛬ᛋᛏᛁᚾ᛬ᚦᛁᚿᚭ᛭ᛅᚠᛏᛁᛦ᛬ᛡᛅᛚᚠᛏᛆᚿ᛭ᚠᛆᚦᚢᚱ᛬ᚦᛆᛁᛦᛆ᛬ᛏᛆᚿᛋ
 > ᛅᚢᚴ᛬ᛡᚢᛘᚴᚱᛁᚦᚱ᛬ᛅᛏ᛬ᛒᚢᛆᚿᛏᛅ᛬ᛋᛁᚿ
-
-## Coming soon
 
 * Elder Futhark:
 > ᚹᚢᚱᛏᛖᚱᚢᚾᛟᛉᚨᚾᚹᚨᛚᚺᚨᚲᚢᚱᚾᛖ᛫᛫ᚺᛖᛚᛞᚨᛉᚲᚢᚾᛁᛗᚢᚾᛞᛁ᛫᛫᛫
